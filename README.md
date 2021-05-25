@@ -3,8 +3,8 @@
 Next.js template with TypeScript and Sass
 
 <p align="center">
-<a href="http://github.com/Team-Arch"><img alt="Made by" src="https://img.shields.io/static/v1?label=Made by&message=Arch Team&color=F8A825&labelColor=000000"></a>
-<a href="https://github.com/fgalmeida"><img alt="Made by" src="https://img.shields.io/static/v1?label=Made by&message=Felipe Almeida&color=F8A825&labelColor=000000"></a>
+<img alt="Made by" src="https://img.shields.io/static/v1?label=Made by&message=Arch Team&color=F8A825&labelColor=000000">
+<img alt="Made by" src="https://img.shields.io/static/v1?label=Made by&message=Felipe Almeida&color=F8A825&labelColor=000000">
 </p>
 
 > Arch team is a totally open-source team made by **friends**, thinking about the future of developers.
