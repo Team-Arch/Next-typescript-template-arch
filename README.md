@@ -11,7 +11,7 @@ Next.js template with TypeScript and Sass
 
 ## How to use
 
->`npx create-next-app <project-name> --template "next-typescript-template-arch"`
+>`npx create-next-app <project-name> --template "https://github.com/Team-Arch/Next-typescript-template-arch"`
 
 ## Technologies
 
