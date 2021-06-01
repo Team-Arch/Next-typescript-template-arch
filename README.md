@@ -17,6 +17,7 @@ Next.js template with TypeScript, Tailwind and Sass
 
 - [NextJS](https://nextjs.org)
 - [ReactJS](https://reactjs.org)
+- [Tailwind](https://tailwindcss.com)
 - [Sass](https://sass-lang.com)
 - [TypeScript](https://www.typescriptlang.org)
 
